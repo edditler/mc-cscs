@@ -1,2 +1,2 @@
 ## CSCS
-- [Setup Piz Daint](../cscs/setup_computer_daint.ipynb)
+- [Setup Piz Daint](./setup_computer_daint.ipynb)
